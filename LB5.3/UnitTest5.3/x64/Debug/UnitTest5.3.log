@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest5.3.cpp
+D:\універ\лаби з алгоритмізації і програмування\LB5.3\UnitTest5.3\UnitTest5.3.cpp(16,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/UnitTest5.3.cpp')
+  
+     Creating library D:\універ\лаби з алгоритмізації і програмування\LB5.3\x64\Debug\UnitTest5.3.lib and object D:\універ\лаби з алгоритмізації і програмування\LB5.3\x64\Debug\UnitTest5.3.exp
+  UnitTest5.3.vcxproj -> D:\універ\лаби з алгоритмізації і програмування\LB5.3\x64\Debug\UnitTest5.3.dll
